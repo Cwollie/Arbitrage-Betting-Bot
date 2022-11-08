@@ -1,6 +1,10 @@
 # Arbitrage-Betting-Bot
-Using sportsbet and betfair APIs found through Burpsuite, basic template open for use.
+This was an ex alpha project using sportsbet and betfair APIs, basic template open for use.
 Uses selenium for browser automation and python to handle APIs
+
+## Strategy
+Buy on Sportsbet, Lay on Betfair - only when win is 105% of the lay
+Simple :)
 
 ## Recommendations
 - Move into python file
